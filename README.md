@@ -1,12 +1,12 @@
 # Action75 壁纸仓库
 
-在这里预览 Action75 键盘副屏的互动壁纸，选择喜欢的作品，下载对应压缩包即可单独导入。以下壁纸已在 Windows x64 版 0.3.8 上试播。
+在这里预览 Action75 键盘副屏的互动壁纸，选择喜欢的作品，下载对应压缩包即可单独导入。本目录提供 DirectX 12 版本，建议使用 Action75 Wallpaper 0.4.1 或更高版本。
 
 **[下载播放器](https://github.com/blackwhite-poi/Action75-Wallpaper/releases/latest)** · [制作壁纸](https://github.com/blackwhite-poi/Action75-Wallpaper#制作并接入自己的壁纸) · [机器可读目录](catalog.json)
 
 ## 导入方法
 
-选择下方的壁纸并下载 ZIP，解压后在控制台点击 **壁纸库 → 导入壁纸**，选择直接包含 `manifest.json` 的文件夹。若已有同一款壁纸，请按控制台的提示确认更新。
+选择下方的壁纸并下载 ZIP，在控制台点击 **壁纸库 → 导入 → ZIP 压缩包**，直接选择下载的文件。也可以选择「壁纸文件夹」导入已解压的作品。若已有同一款壁纸，请按控制台的提示确认更新。
 
 ## 壁纸目录
 
