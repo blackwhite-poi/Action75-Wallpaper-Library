@@ -135,6 +135,33 @@
       "download": "https://raw.githubusercontent.com/blackwhite-poi/Action75-Wallpaper-Library/main/packs/%E7%A3%81%E6%B5%81%E4%BD%93.zip",
       "size": 277343,
       "sha256": "cec3e3ee758beadda98df9b6fd1b7e064ecee65844c15d44a529917fa74dce64"
+    },
+    {
+      "id": "fluid-pixel-cursor",
+      "name": "像素流体矩阵",
+      "description": "灵感源自 Fluid Pixel Cursor：按键与指针在极简像素矩阵中注入真实流体涡旋拖尾，支持暗黑/纸白/炭灰主题、像素格子密度自由调节、单色/双色/多色预设/自选四色/随机色切换，静置自动休眠。",
+      "preview": "previews/像素流体矩阵.png",
+      "download": "https://raw.githubusercontent.com/blackwhite-poi/Action75-Wallpaper-Library/main/packs/%E5%83%8F%E7%B4%A0%E6%B5%81%E4%BD%93%E7%9F%A9%E9%98%B5.zip",
+      "size": 190459,
+      "sha256": "9057cc7e248db28ebeb3c82d978bd41bfd1a96f4192d22b0bf5d64cff4ac87d8"
+    },
+    {
+      "id": "patatap-custom-7535a978",
+      "name": "Patatap",
+      "description": "自选配色与动作组合，分别调节按键动画、全局动画和背景底色。",
+      "preview": "previews/Patatap.png",
+      "download": "https://raw.githubusercontent.com/blackwhite-poi/Action75-Wallpaper-Library/main/packs/Patatap.zip",
+      "size": 507094,
+      "sha256": "e6d45d7433d9544fe0ba96f5fc0da67355317ffe1200a264b5376e80b0a5c770"
+    },
+    {
+      "id": "splash-cursor",
+      "name": "流体溅射",
+      "description": "移动指针拖出流体尾迹，点击或按键激起彩色溅射。支持泛光、浮雕光影和多种配色。",
+      "preview": "previews/流体溅射.png",
+      "download": "https://raw.githubusercontent.com/blackwhite-poi/Action75-Wallpaper-Library/main/packs/%E6%B5%81%E4%BD%93%E6%BA%85%E5%B0%84.zip",
+      "size": 1039897,
+      "sha256": "4249ca86a627bec01f63849b46b5db62588afd9095cd55ff5a57f87f0846601d"
     }
   ]
 }

@@ -1,6 +1,6 @@
 # Action75 壁纸仓库
 
-在这里预览 Action75 键盘副屏的互动壁纸，选择喜欢的作品，下载对应压缩包即可单独导入。本目录提供 DirectX 12 版本，建议使用 Action75 Wallpaper 0.4.1 或更高版本。
+在这里预览 Action75 键盘副屏的互动壁纸，选择喜欢的作品，下载对应压缩包即可单独导入。本目录提供 DirectX 11 和 DirectX 12 壁纸，建议使用 Action75 Wallpaper 0.4.1 或更高版本。
 
 **[下载播放器](https://github.com/blackwhite-poi/Action75-Wallpaper/releases/latest)** · [制作壁纸](https://github.com/blackwhite-poi/Action75-Wallpaper#制作并接入自己的壁纸) · [机器可读目录](catalog.json)
 
@@ -12,6 +12,9 @@
 
 | 预览 | 壁纸 | 下载 |
 | --- | --- | --- |
+| <img src="previews/像素流体矩阵.png" width="220" alt="像素流体矩阵预览"> | **像素流体矩阵**<br>灵感源自 Fluid Pixel Cursor：按键与指针在极简像素矩阵中注入真实流体涡旋拖尾，支持暗黑/纸白/炭灰主题、像素格子密度自由调节、单色/双色/多色预设/自选四色/随机色切换，静置自动休眠。 | [下载 像素流体矩阵.zip](https://raw.githubusercontent.com/blackwhite-poi/Action75-Wallpaper-Library/main/packs/%E5%83%8F%E7%B4%A0%E6%B5%81%E4%BD%93%E7%9F%A9%E9%98%B5.zip) |
+| <img src="previews/Patatap.png" width="220" alt="Patatap预览"> | **Patatap**<br>自选配色与动作组合，分别调节按键动画、全局动画和背景底色。 | [下载 Patatap.zip](https://raw.githubusercontent.com/blackwhite-poi/Action75-Wallpaper-Library/main/packs/Patatap.zip) |
+| <img src="previews/流体溅射.png" width="220" alt="流体溅射预览"> | **流体溅射**<br>移动指针拖出流体尾迹，点击或按键激起彩色溅射。支持泛光、浮雕光影和多种配色。 | [下载 流体溅射.zip](https://raw.githubusercontent.com/blackwhite-poi/Action75-Wallpaper-Library/main/packs/%E6%B5%81%E4%BD%93%E6%BA%85%E5%B0%84.zip) |
 | <img src="previews/磁流体.jpg" width="220" alt="磁流体预览"> | **磁流体**<br>一滴有重量的磁液。磁极牵引前缘、尾缘回卷，远处的液体靠近键位时才长出尖峰。 | [下载 磁流体.zip](https://raw.githubusercontent.com/blackwhite-poi/Action75-Wallpaper-Library/main/packs/%E7%A3%81%E6%B5%81%E4%BD%93.zip) |
 | <img src="previews/余像.jpg" width="220" alt="余像预览"> | **余像**<br>玻璃切面的紫色薄暮；短促的棱镜闪光沿放射方向散开。 | [下载 余像.zip](https://raw.githubusercontent.com/blackwhite-poi/Action75-Wallpaper-Library/main/packs/%E4%BD%99%E5%83%8F.zip) |
 | <img src="previews/黑洞.jpg" width="220" alt="黑洞预览"> | **黑洞**<br>引力透镜弯折星云、虚空或星空，按键点亮带星芒的恒星。黑洞可拖动、缩放，阴影覆盖的键位保持静默。 | [下载 黑洞.zip](https://raw.githubusercontent.com/blackwhite-poi/Action75-Wallpaper-Library/main/packs/%E9%BB%91%E6%B4%9E.zip) |
