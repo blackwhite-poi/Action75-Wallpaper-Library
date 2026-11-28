@@ -30,3 +30,4 @@
 | <img src="previews/潮汐绢墨.jpg" width="220" alt="潮汐绢墨预览"> | **潮汐绢墨**<br> | [下载 潮汐绢墨.zip](https://raw.githubusercontent.com/blackwhite-poi/Action75-Wallpaper-Library/main/packs/%E6%BD%AE%E6%B1%90%E7%BB%A2%E5%A2%A8.zip) |
 | <img src="previews/水波.jpg" width="220" alt="水波预览"> | **水波**<br>点击副屏或按下 Action75 键位，力度各异的涟漪从触点扩散、交叠。背景可换成月下深池、海盐浅湾、暮霞、黑曜石或自定义底色。 | [下载 水波.zip](https://raw.githubusercontent.com/blackwhite-poi/Action75-Wallpaper-Library/main/packs/%E6%B0%B4%E6%B3%A2.zip) |
 | <img src="previews/潮汐玻璃.jpg" width="220" alt="潮汐玻璃预览"> | **潮汐玻璃**<br>冷青色切面的深海玻璃；按键泛起折射边缘与一圈短促波纹。 | [下载 潮汐玻璃.zip](https://raw.githubusercontent.com/blackwhite-poi/Action75-Wallpaper-Library/main/packs/%E6%BD%AE%E6%B1%90%E7%8E%BB%E7%92%83.zip) |
+| <img src="previews/生命游戏.png" width="220" alt="生命游戏预览"> | **生命游戏** | [下载 生命游戏.zip](https://raw.githubusercontent.com/blackwhite-poi/Action75-Wallpaper-Library/main/packs/%E7%94%9F%E5%91%BD%E6%B8%B8%E6%88%8F.zip) |

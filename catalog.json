@@ -162,6 +162,14 @@
       "download": "https://raw.githubusercontent.com/blackwhite-poi/Action75-Wallpaper-Library/main/packs/%E6%B5%81%E4%BD%93%E6%BA%85%E5%B0%84.zip",
       "size": 1039897,
       "sha256": "4249ca86a627bec01f63849b46b5db62588afd9095cd55ff5a57f87f0846601d"
+    },
+    {
+      "id": "game-of-life",
+      "name": "生命游戏",
+      "preview": "previews/生命游戏.png",
+      "download": "https://raw.githubusercontent.com/blackwhite-poi/Action75-Wallpaper-Library/main/packs/%E7%94%9F%E5%91%BD%E6%B8%B8%E6%88%8F.zip",
+      "size": 540991,
+      "sha256": "cb3904acc49c69ec0cefcb36e478c4dcb7d719990f79f7354fa36c21f7ac419f"
     }
   ]
 }
