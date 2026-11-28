@@ -7,8 +7,8 @@
       "description": "玻璃切面的紫色薄暮；短促的棱镜闪光沿放射方向散开。",
       "preview": "previews/余像.jpg",
       "download": "https://raw.githubusercontent.com/blackwhite-poi/Action75-Wallpaper-Library/main/packs/%E4%BD%99%E5%83%8F.zip",
-      "size": 1275976,
-      "sha256": "f3a0b3fb79e8c92d57e35b799490deb31020fb352a1d237aa1a22e88d09cf0aa"
+      "size": 1276523,
+      "sha256": "5966a4035c4860b03d7fd034347e8b60f246f22081cc3e115c81468991a998a7"
     },
     {
       "id": "black-hole",
@@ -16,8 +16,8 @@
       "description": "引力透镜弯折星云、虚空或星空，按键点亮带星芒的恒星。黑洞可拖动、缩放，阴影覆盖的键位保持静默。",
       "preview": "previews/黑洞.jpg",
       "download": "https://raw.githubusercontent.com/blackwhite-poi/Action75-Wallpaper-Library/main/packs/%E9%BB%91%E6%B4%9E.zip",
-      "size": 2785488,
-      "sha256": "744db65a0dedb12773d577acba4f30619e7aa58ea548163ef3e8b6e50d149050"
+      "size": 2786673,
+      "sha256": "31dbdc1208f954fdbe27c45d058402e5ac454f79ab2e97c1ab9473779c35d2e3"
     },
     {
       "id": "carrier",
@@ -25,8 +25,8 @@
       "description": "暗橄榄色底上的磷光信号束；击键发出左右传播的分段脉冲。",
       "preview": "previews/载波.jpg",
       "download": "https://raw.githubusercontent.com/blackwhite-poi/Action75-Wallpaper-Library/main/packs/%E8%BD%BD%E6%B3%A2.zip",
-      "size": 1399500,
-      "sha256": "6b384098e79a93401bfd12f467e2c99ed61287ffb01ffd9b1a0655360b5c81b4"
+      "size": 1400045,
+      "sha256": "a2aa3133e1e912fea76b5c582a288b64e3a119f2a653ce2c0ad7175f5a249fdc"
     },
     {
       "id": "folio",
@@ -34,17 +34,17 @@
       "description": "有纸纹的暖色留白与赭红浮雕；按键在纸面晕染出矿物颜料。",
       "preview": "previews/朱砂拓印.jpg",
       "download": "https://raw.githubusercontent.com/blackwhite-poi/Action75-Wallpaper-Library/main/packs/%E6%9C%B1%E7%A0%82%E6%8B%93%E5%8D%B0.zip",
-      "size": 3991726,
-      "sha256": "32b1f450e9d2e9e4966086145b3be5f774c87969ecea38793b8572a3063c856c"
+      "size": 3992250,
+      "sha256": "bf0878e603d0a3e53fe3b1442c357d4f0494df3f5c1765e38bce4fa17403903d"
     },
     {
       "id": "gilded-synapse",
       "name": "鎏金脉络",
-      "description": "",
+      "description": "按键点亮细密的金色脉络，光沿纹路向外扩散，再渐渐暗下。",
       "preview": "previews/鎏金脉络.jpg",
       "download": "https://raw.githubusercontent.com/blackwhite-poi/Action75-Wallpaper-Library/main/packs/%E9%8E%8F%E9%87%91%E8%84%89%E7%BB%9C.zip",
-      "size": 358435,
-      "sha256": "4a242a5d4f351dbb3fc64566df9bf127257cd32fe31e0549d5720776c2550189"
+      "size": 359700,
+      "sha256": "1517fa347d3231795bddf3b0bfd1d91897b9efb1c2def7745a0a6f9529bcb462"
     },
     {
       "id": "glass-shatter",
@@ -52,35 +52,35 @@
       "description": "按键处绽开玻璃裂纹，折射出飞散的碎片。每次按下的力度在设定范围内随机变化，可切换极夜蓝、琥珀暮光和银雾背景。",
       "preview": "previews/碎光玻璃.jpg",
       "download": "https://raw.githubusercontent.com/blackwhite-poi/Action75-Wallpaper-Library/main/packs/%E7%A2%8E%E5%85%89%E7%8E%BB%E7%92%83.zip",
-      "size": 979857,
-      "sha256": "3475621b553f84390814f8b4a01cee5cd985053dcce123324b1ec261f245b0fe"
+      "size": 980783,
+      "sha256": "0e6843100f279a6b90f8ddaaf0b72a370ca9a4babe1670c62486dbd0b10d717a"
     },
     {
       "id": "harmonic-textile",
       "name": "声纹织物",
-      "description": "",
+      "description": "按键在细密的织纹上荡开波纹，层层交织后逐渐平静。",
       "preview": "previews/声纹织物.jpg",
       "download": "https://raw.githubusercontent.com/blackwhite-poi/Action75-Wallpaper-Library/main/packs/%E5%A3%B0%E7%BA%B9%E7%BB%87%E7%89%A9.zip",
-      "size": 617999,
-      "sha256": "2cebc312b2bfcbe2a79f965fc3df6c6c6d6ee512a6fc189019d29fb02b2519ad"
+      "size": 619340,
+      "sha256": "c2cda9c6eda64adb26eef15191a8b033dd7048e23a4ee54d408a3ad6ff1b2740"
     },
     {
       "id": "keycap-glow",
       "name": "键影",
-      "description": "",
+      "description": "键帽轮廓勾出键盘布局，按下哪一颗键，对应位置就会亮起。",
       "preview": "previews/键影.jpg",
       "download": "https://raw.githubusercontent.com/blackwhite-poi/Action75-Wallpaper-Library/main/packs/%E9%94%AE%E5%BD%B1.zip",
-      "size": 678303,
-      "sha256": "21e3be68bcc03cf170f74a5ebdc958cc3ce6f9c9d7bfdec09f2e57f779343e0e"
+      "size": 679326,
+      "sha256": "47eefe31c2589837512fcd88eaa2dd7f3a0e0ae3eaded104d5bf7b71a61d37a2"
     },
     {
       "id": "meridian",
       "name": "日蚀经线",
-      "description": "连续时间解析轨道弧：平滑生长、沿弧流光和自然淡出。保留原背景及配色。",
+      "description": "按键点亮弧形轨道，光沿轨道流动后淡出。",
       "preview": "previews/日蚀经线.jpg",
       "download": "https://raw.githubusercontent.com/blackwhite-poi/Action75-Wallpaper-Library/main/packs/%E6%97%A5%E8%9A%80%E7%BB%8F%E7%BA%BF.zip",
-      "size": 5195110,
-      "sha256": "1c4acdaeaf5af4a5da49121049588e7ef43a4d47c526cd5b4ea6f6213520b7d2"
+      "size": 5195655,
+      "sha256": "354debcfa3b610a849c69062b0ba3ea817db282fae90622260d9478006f6e9bb"
     },
     {
       "id": "night-fireworks",
@@ -88,26 +88,26 @@
       "description": "按键或点按副屏，烟花从触点原地绽放。心形沿轮廓扩张，蓝银棕榈向上展开长枝。十种花型可自由组合，每发可抽取一套配色。",
       "preview": "previews/烟火.jpg",
       "download": "https://raw.githubusercontent.com/blackwhite-poi/Action75-Wallpaper-Library/main/packs/%E7%83%9F%E7%81%AB.zip",
-      "size": 301748,
-      "sha256": "e399bd015002ab6e4f6d85f866cd16b7ae4db6188bcf6591254236e126a10479"
+      "size": 303055,
+      "sha256": "4326bfe1381c097d07d3e81bd110746c73b498116ae874ac2c9e527aac217df6"
     },
     {
       "id": "paintball-native",
       "name": "水彩喷溅",
-      "description": "使用原作贴图与解码运动曲线的原生复现；九组配色、喷溅、水滴与淡出。当前为移植试用版，色彩显示管线仍待原版对照。",
+      "description": "按键溅出水彩，水滴扩散后逐渐淡去。可以切换九组配色。",
       "preview": "previews/水彩喷溅.jpg",
       "download": "https://raw.githubusercontent.com/blackwhite-poi/Action75-Wallpaper-Library/main/packs/%E6%B0%B4%E5%BD%A9%E5%96%B7%E6%BA%85.zip",
-      "size": 7266089,
-      "sha256": "25649199598f5864bea0171bda554057953331f6bc7439cce397a6432f9a9cdc"
+      "size": 7294994,
+      "sha256": "504c8a0210e2a61bfed4fe4f688d4b70fb89ec58664b49ef5eeda5b1cd6a472e"
     },
     {
       "id": "silk-nebula",
       "name": "潮汐绢墨",
-      "description": "",
+      "description": "青蓝色的墨纹像潮水一样铺开，按键激起流动的涟漪。",
       "preview": "previews/潮汐绢墨.jpg",
       "download": "https://raw.githubusercontent.com/blackwhite-poi/Action75-Wallpaper-Library/main/packs/%E6%BD%AE%E6%B1%90%E7%BB%A2%E5%A2%A8.zip",
-      "size": 708701,
-      "sha256": "662642344a0716b48e24dd594712dff03c71e51ecd95ce7f4db9918dda00d3d1"
+      "size": 711271,
+      "sha256": "f20eabf08498af767f22d455e9d30504d3c2cb03bfc70b0ddd382b6338a606bb"
     },
     {
       "id": "stillwater",
@@ -115,8 +115,8 @@
       "description": "点击副屏或按下 Action75 键位，力度各异的涟漪从触点扩散、交叠。背景可换成月下深池、海盐浅湾、暮霞、黑曜石或自定义底色。",
       "preview": "previews/水波.jpg",
       "download": "https://raw.githubusercontent.com/blackwhite-poi/Action75-Wallpaper-Library/main/packs/%E6%B0%B4%E6%B3%A2.zip",
-      "size": 1232316,
-      "sha256": "b6ab2673aa7b68789b2e7aabb39668a16c26f74000ef5ca392012ef46431e7b4"
+      "size": 1233151,
+      "sha256": "7d5e72441a552393bc96d067addf95a1957b48232d495f23aba336711a955e2a"
     },
     {
       "id": "tidal-glass",
@@ -124,8 +124,8 @@
       "description": "冷青色切面的深海玻璃；按键泛起折射边缘与一圈短促波纹。",
       "preview": "previews/潮汐玻璃.jpg",
       "download": "https://raw.githubusercontent.com/blackwhite-poi/Action75-Wallpaper-Library/main/packs/%E6%BD%AE%E6%B1%90%E7%8E%BB%E7%92%83.zip",
-      "size": 1451152,
-      "sha256": "bd634789f21a2f4df07a3662ac6d3aa36b79eaf70f219be11a62d3240f9980c5"
+      "size": 1451678,
+      "sha256": "41c9ad20c00aae5b3a48ecc625e0dd261498c52d5c75a3bb10238cc4f0492986"
     },
     {
       "id": "meniscus-ferrofluid-v1",
@@ -133,8 +133,8 @@
       "description": "一滴有重量的磁液。磁极牵引前缘、尾缘回卷，远处的液体靠近键位时才长出尖峰。",
       "preview": "previews/磁流体.jpg",
       "download": "https://raw.githubusercontent.com/blackwhite-poi/Action75-Wallpaper-Library/main/packs/%E7%A3%81%E6%B5%81%E4%BD%93.zip",
-      "size": 277343,
-      "sha256": "cec3e3ee758beadda98df9b6fd1b7e064ecee65844c15d44a529917fa74dce64"
+      "size": 277795,
+      "sha256": "f40d574e1cbeca8182170fbc1bd8075705c51948054f4771f9eb51e8df35108b"
     },
     {
       "id": "fluid-pixel-cursor",
@@ -142,8 +142,8 @@
       "description": "灵感源自 Fluid Pixel Cursor：按键与指针在极简像素矩阵中注入真实流体涡旋拖尾，支持暗黑/纸白/炭灰主题、像素格子密度自由调节、单色/双色/多色预设/自选四色/随机色切换，静置自动休眠。",
       "preview": "previews/像素流体矩阵.png",
       "download": "https://raw.githubusercontent.com/blackwhite-poi/Action75-Wallpaper-Library/main/packs/%E5%83%8F%E7%B4%A0%E6%B5%81%E4%BD%93%E7%9F%A9%E9%98%B5.zip",
-      "size": 190459,
-      "sha256": "9057cc7e248db28ebeb3c82d978bd41bfd1a96f4192d22b0bf5d64cff4ac87d8"
+      "size": 191255,
+      "sha256": "527886cc55bc65e0747bd1919706723bb6fac006ef7cdf4dc3516f2eee19ecdc"
     },
     {
       "id": "patatap-custom-7535a978",
@@ -151,8 +151,8 @@
       "description": "自选配色与动作组合，分别调节按键动画、全局动画和背景底色。",
       "preview": "previews/Patatap.png",
       "download": "https://raw.githubusercontent.com/blackwhite-poi/Action75-Wallpaper-Library/main/packs/Patatap.zip",
-      "size": 507094,
-      "sha256": "e6d45d7433d9544fe0ba96f5fc0da67355317ffe1200a264b5376e80b0a5c770"
+      "size": 511097,
+      "sha256": "4cec994941d0a9d943e34c327623e9f8c54e3888424a452151a9271dc5cd7709"
     },
     {
       "id": "splash-cursor",
@@ -160,8 +160,8 @@
       "description": "移动指针拖出流体尾迹，点击或按键激起彩色溅射。支持泛光、浮雕光影和多种配色。",
       "preview": "previews/流体溅射.png",
       "download": "https://raw.githubusercontent.com/blackwhite-poi/Action75-Wallpaper-Library/main/packs/%E6%B5%81%E4%BD%93%E6%BA%85%E5%B0%84.zip",
-      "size": 1039897,
-      "sha256": "4249ca86a627bec01f63849b46b5db62588afd9095cd55ff5a57f87f0846601d"
+      "size": 1040648,
+      "sha256": "d11d2a180485eef4ac8dadde03db1fe75627fee7162e48ce6924299da4ea92ca"
     },
     {
       "id": "game-of-life",
